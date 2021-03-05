@@ -1,0 +1,10 @@
+H:\C# Repos\Shifrovalshik\Shifrovalshik\bin\Debug\Shifrovalshik.exe.config
+H:\C# Repos\Shifrovalshik\Shifrovalshik\bin\Debug\Shifrovalshik.exe
+H:\C# Repos\Shifrovalshik\Shifrovalshik\bin\Debug\Shifrovalshik.pdb
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.csprojAssemblyReference.cache
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.Properties.Resources.resources
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.csproj.GenerateResource.cache
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.csproj.CoreCompileInputs.cache
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.exe
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.pdb
+H:\C# Repos\Shifrovalshik\Shifrovalshik\obj\Debug\Shifrovalshik.Form1.resources
